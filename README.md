@@ -1,4 +1,4 @@
-<h1><img src="https://cdn0.iconfinder.com/data/icons/remoji-soft-1/512/emoji-hello-happy-smile.png" width="30"/> Hey! Nice to see you.</h1>
+<h1 style="color: #4a4a4a"><img src="https://cdn0.iconfinder.com/data/icons/remoji-soft-1/512/emoji-hello-happy-smile.png" width="30" /> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Sudharsan, Web developer from&nbsp;<img src="https://rb.gy/n65dd" style="width: 30px; height: 30px; line-height: 1"/>&nbsp;Chennai, Tamil Nadu.</b> 
 <br/>I am a self-driven enthusiast with a strong passion for understanding the complexities of diverse technology stacks and effectively applying them in practical situations.</p>
@@ -16,7 +16,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 </p>
 
-<h2 align="left">Connect with me ❤️</h2>
+<h2 align="left" style="color: #4a4a4a">Connect with me ❤️</h2>
 <p align="left">
 <a href="mailto:ssudharsan210@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" alt="Sudharsan_S" height="30" width="40" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/sudharsan21/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sudharsan_S" height="30" width="40" /></a>
