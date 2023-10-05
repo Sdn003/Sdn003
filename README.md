@@ -1,6 +1,6 @@
 <h1 style="color: #4a4a4a"><img src="https://cdn0.iconfinder.com/data/icons/remoji-soft-1/512/emoji-hello-happy-smile.png" width="30" /> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Sudharsan, Web developer from&nbsp;<img src="https://rb.gy/n65dd" style="width: 30px; height: 30px; line-height: 1"/>&nbsp;Chennai, Tamil Nadu.</b> 
+<p>Welcome to my page! </br> I'm Sudharsan, System Engineer from&nbsp;<img src="https://rb.gy/n65dd" style="width: 30px; height: 30px; line-height: 1"/>&nbsp;Chennai, Tamil Nadu.</b> 
 <br/>I am a self-driven enthusiast with a strong passion for understanding the complexities of diverse technology stacks and effectively applying them in practical situations.</p>
 
 ## ⚡ Things I code with
